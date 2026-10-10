@@ -8,7 +8,7 @@ When the buyer pastes your PDF into an LLM, the model does not "read" it like a 
 
 1. **Machine-readable source format:** submit text-layer PDFs or Markdown exports — never image-only scans (the model sees nothing). Verify: text selects/copies from the final export.
 2. **BLUF per section:** each section opens with its conclusion ("Total fixed price: £9,850. Delivery: 6 weeks. Penalty-backed."), then supports it (front-loading law, `kirby-aiseo-skill` §2.1).
-3. **One fact per labeled line:** prices, timelines, guarantees, and coverage amounts live in labeled table rows — `"Public Liability Insurance | £5,000,000 | Certificate on request"` — never buried in prose.
+3. **One fact per labeled line:** prices, timelines, guarantees, and coverage amounts live in labeled table rows — `"Public Liability Insurance | £3,000,000 (example figure) | Certificate on request"` — never buried in prose. (Figures here are placeholders; real values come from Module 2's certificate-audited disclosures and must match them exactly.)
 4. **Explicit comparison metrics:** where you beat a competitor on a checkable dimension, state the metric with its number and unit; the model can weigh "98% first-fix rate (12-month trailing, 417 jobs)" and cannot weigh "highest quality".
 5. **Risk-mitigation block:** a dedicated section enumerating what happens if things go wrong (remedies, penalty clauses, escalation path) — LLMs performing risk ranking (Module 1's Tender Grill) reward vendors who pre-answer it.
 6. **ROI guarantees as falsifiable claims:** "save 14 hrs/month per operator (measured onboarding baseline, 30-day exit if unmet)" beats "significant efficiency gains".
@@ -28,5 +28,7 @@ When the buyer pastes your PDF into an LLM, the model does not "read" it like a 
 ## 5.3 Guardrails
 
 * **Human scrutiny rule:** every claim must survive a human procurement officer reading the same document. Over-optimized keyword scaffolding that reads as machine-first triggers spam filters in procurement portals and destroys human trust — optimize extraction clarity, never keyword density.
+* **Authority-to-commit rule:** penalty clauses, guarantees, and remedy terms enter a document only with the contractual authority to back them (sign-off from whoever owns delivery risk). An LLM-parseable penalty clause the business cannot honor is worse than none — it converts a marketing claim into a breach.
+* **Template precedence:** where the tender mandates a response template, the extraction standard applies *within* the template's structure (labeled rows, BLUF per section) — never restructure a mandatory format.
 * **Consistency rule:** figures in the proposal must match the website, review-summary domain (Module 4), and registry entries (Module 3) exactly — cross-document mismatches are the cheapest disqualification an LLM can find.
 * **Price-gating boundary:** `kirby-text-first-cro` §12 gates prices in *marketing* title tags and hero copy; tender/proposal documents are the opposite context — buyers demand exact figures, and withholding them is a disqualification. Do not apply §12 here.

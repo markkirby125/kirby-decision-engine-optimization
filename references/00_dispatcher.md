@@ -21,9 +21,9 @@ When executing tasks under this skill, **do not guess**. Read the specific modul
 - You are correcting LLM miscounts of the client's reviews across platforms, segmented by buyer persona (Module 4).
 
 ## When NOT to Use
-- Top-of-funnel AI visibility, citations, rankings: `kirby-aiseo-skill`.
-- GBP/map-pack/review acquisition mechanics: `kirby-local-seo`.
-- Third-party placements and link acquisition: `kirby-off-page-seo`.
+- Top-of-funnel AI visibility, citations, rankings: [kirby-aiseo-skill](../../kirby-aiseo-skill/SKILL.md).
+- GBP/map-pack/review acquisition mechanics: [kirby-local-seo](../../kirby-local-seo/SKILL.md).
+- Third-party placements and link acquisition: [kirby-off-page-seo](../../kirby-off-page-seo/SKILL.md).
 
 ## How It Works
 1. Confirm the decision scenario (competing quotes / tender / RFP) and the buyer persona.

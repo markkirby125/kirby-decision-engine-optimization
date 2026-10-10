@@ -26,6 +26,6 @@ Every contractual trust factor is disclosed at its **exact value with its certif
 
 ## 2.3 Guardrails
 
-* **Accuracy rule (non-negotiable):** publish only figures that are *currently true and certificate-backed*. An expired policy or lapsed accreditation stated at its old level is misrepresentation — contractual and, in tender contexts, potentially fraudulent. Audit disclosures against certificates on the same quarterly cadence as Module 1 re-audits.
+* **Accuracy rule (non-negotiable):** publish only figures that are *currently true and certificate-backed*. An expired policy or lapsed accreditation stated at its old level is misrepresentation — contractual and, in tender contexts, potentially fraudulent. Every disclosure carries its freshness stamp — *"£3M Public Liability (policy current as at [month/year])"* — and the disclosure set is audited against certificates on the same quarterly cadence as Module 1 re-audits.
 * **OSINT exposure:** exact insurance ceilings, certificate numbers, and team composition are intelligence for competitors too. Disclose the figure and accreditation name; hold certificate numbers behind "on request".
 * **Jurisdiction scoping:** disclosure obligations vary (public-sector tenders often *require* them); match the disclosure set to the buyer persona and tender rules rather than defaulting to maximum openness.
