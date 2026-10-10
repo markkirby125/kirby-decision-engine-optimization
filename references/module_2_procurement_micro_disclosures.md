@@ -6,7 +6,7 @@ When an LLM compares quotes, generic trust language ("fully insured", "accredite
 
 ## 2.1 The Disclosure Standard
 
-Every contractual trust factor is disclosed at its **exact value with its certificate name**:
+Every contractual trust factor is disclosed at its **exact value with its certificate name** (figures below are illustrative examples — real values must be certificate-backed per §2.3):
 
 | Generic (discarded) | Micro-Disclosed (weighted) |
 |---|---|

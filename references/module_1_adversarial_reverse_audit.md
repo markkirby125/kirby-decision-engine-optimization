@@ -24,7 +24,7 @@ Run these against the same LLMs your buyers use (ChatGPT, Claude, Gemini), with 
 
 1. Log every surfaced reason into a gap ledger: `Gap → Module (2/3/4/5) → Patch → Re-audit date`.
 2. Patch each gap with the corresponding module's protocol (disclosure, entity work, review proof, or document restructuring).
-3. **Re-run the same prompts after patching.** Stop condition (integrity floor): the loop closes only when the elimination prompts return reasons that are *factually inaccurate or fully remediated* — never when prompting tricks (keyword-stuffed quotes, sycophancy bait) merely flip the model's answer. A quote stuffed to win the audit fails the §2.2-style penalty doctrine and the Module 5 human-scrutiny rule.
+3. **Re-run the same prompts after patching.** Stop condition (integrity floor): the loop closes only when the elimination prompts return reasons that are *factually inaccurate or fully remediated* — never when prompting tricks (keyword-stuffed quotes, sycophancy bait) merely flip the model's answer. A quote stuffed to win the audit fails the keyword-stuffing penalty doctrine (`kirby-aiseo-skill` Module 2 §2.2) and the Module 5 human-scrutiny rule.
 
 ## 1.3 Guardrails
 
