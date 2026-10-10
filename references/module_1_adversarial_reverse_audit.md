@@ -4,6 +4,10 @@
 
 At the decision stage, buyers do not ask the LLM *"why should we choose X?"* — they ask it to **eliminate** vendors. Optimize for the elimination question.
 
+## 1.0 The 26% Benchmark (Economic Basis)
+
+*Source: Dooley/Floate — "Entity SEO for AI Search" (V6), 2026; single 1.3M-inquiry study, directional.* AI-referred leads convert cold-inquiry-to-customer at **26%** — **3× web-search leads, 2 points above word-of-mouth** (1.3M inquiries, 850 industries, UTM-tracked from ChatGPT/AI search). Buyers arrive pre-sold on perceived AI neutrality. *Harmonization:* `kirby-off-page-seo` §4.21 reports 20–25% vs ~5% organic (Odys Global) for the same phenomenon — cite ranges with attribution; never blend sources into one number. Case evidence: Module 5 §5.4.
+
 ## 1.1 The Core Prompts
 
 Run these against the same LLMs your buyers use (ChatGPT, Claude, Gemini), with the client's and competitors' real **public** materials pasted in:

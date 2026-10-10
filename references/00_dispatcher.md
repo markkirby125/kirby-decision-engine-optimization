@@ -2,6 +2,8 @@
 
 Every other AI SEO skill optimizes **discovery** (citations, impressions, top-of-funnel rankings). This skill optimizes the **decision stage**: the moment a corporate buyer, legal client, or homeowner pastes four competing quotes or an RFP PDF into ChatGPT/Claude and asks *"Which one provides the best value? Who should I place the order with?"*
 
+**The economic case (V6-G — Dooley/Floate, "Entity SEO for AI Search", 2026; single 1.3M-inquiry study, directional):** AI-referred leads convert from cold inquiry to paying customer at **26%** — **3× standard web-search leads** and **2 points above word-of-mouth**, historically commerce's best channel (cross-industry: 1.3M inquiries, 850 industries; UTM-tracked from ChatGPT/AI search). Buyers arrive pre-sold — "where do I sign" — on perceived AI neutrality. *Harmonization note:* `kirby-off-page-seo` §4.21 carries a different-source figure for the same phenomenon (20–25% vs ~5% organic, Odys Global) — both are attributed; cite the range, never blend them into one number. Full benchmark: Module 1 §1.0.
+
 When executing tasks under this skill, **do not guess**. Read the specific module below.
 
 ## 📚 Module Index
