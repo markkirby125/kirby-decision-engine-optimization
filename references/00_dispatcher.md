@@ -13,9 +13,11 @@ When executing tasks under this skill, **do not guess**. Read the specific modul
 - **Module 3: Knowledge Graph Procurement Gating** — KG ID / Knowledge Panel requirements for enterprise AI procurement filters. -> Read `./module_3_knowledge_graph_procurement_gating.md`
 - **Module 4: Standalone Brand Review Summary Ecosystems** — `[Brand]Reviews.com` architectures that correct LLM review miscounts by buyer persona. -> Read `./module_4_brand_review_summary_ecosystems.md`
 - **Module 5: LLM-Optimized Proposal & RFP Structuring** — format quotes, proposals, and pricing sheets so LLM document parsers extract your superior value metrics. -> Read `./module_5_llm_optimized_proposals_rfp.md`
+- **Module 6: Third-Party Entity Ingestion** — seed GitHub/Reddit/industry-publication comparison matrices so LLMs retrieve them as consensus facts during buyer decision queries. -> Read `./module_6_third_party_entity_ingestion.md`
 
 ## When to Use
 - A prospect's final decision step involves pasting competing quotes into an LLM ("we have 4 quotes — which should we choose?").
+- You are seeding comparison matrices onto high-authority third-party platforms (GitHub, Reddit, industry publications) so LLMs ingest them as category consensus during decision queries — 99%/1% doctrine, verifiable cells, freshness loop, LLM probe verification (Module 6).
 - You are structuring a sales proposal, PDF quote, or RFP response for LLM parseability (Module 5).
 - You are auditing why an LLM recommends a competitor over the client (Module 1's reverse-audit prompts).
 - You are deciding which contractual trust factors (insurance, ISO, accreditations) to disclose and at what precision (Module 2).
