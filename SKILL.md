@@ -4,7 +4,7 @@ description: "Use when a buyer will paste competing quotes, proposals, or RFP re
 category: technique
 triggers: [deo, decision-engine-optimization, procurement, tender, rfp, quote-comparison, vendor-selection, proposal-structuring, reverse-audit, knowledge-graph-gating, constructionline]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
