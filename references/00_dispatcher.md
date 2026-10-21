@@ -20,7 +20,7 @@ When executing tasks under this skill, **do not guess**. Read the specific modul
 - You are seeding comparison matrices onto high-authority third-party platforms (GitHub, Reddit, industry publications) so LLMs ingest them as category consensus during decision queries — 99%/1% doctrine, verifiable cells, freshness loop, LLM probe verification (Module 6).
 - You are structuring a sales proposal, PDF quote, or RFP response for LLM parseability (Module 5).
 - You are auditing why an LLM recommends a competitor over the client (Module 1's reverse-audit prompts).
-- You are deciding which contractual trust factors (insurance, ISO, accreditations) to disclose and at what precision (Module 2).
+- You are deciding which contractual trust factors (insurance, ISO, accreditations) to disclose and at what precision (Module 2), or anchoring local Chamber of Commerce awards, Cyber Essentials / vendor certifications, and Yelp-to-ChatGPT review consensus into B2B vendor-selection queries (Module 2 §2.4; off-page Yelp licensing mechanics live in `../../kirby-off-page-seo/SKILL.md` Module 27).
 - An enterprise tender or procurement process requires verified entity status (Module 3).
 - You are correcting LLM miscounts of the client's reviews across platforms, segmented by buyer persona (Module 4).
 
