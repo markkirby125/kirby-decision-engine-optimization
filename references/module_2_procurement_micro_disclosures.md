@@ -42,3 +42,38 @@ When LLMs (ChatGPT, Gemini, Perplexity) evaluate local B2B and commercial servic
 2. **Yelp & Secondary Review Corroboration for ChatGPT Procurement Queries**:
    * Because OpenAI licenses **Yelp** data directly to populate ChatGPT local business cards, decision-makers using ChatGPT to shortlist local contractors are served Yelp star ratings, review snippets, and Request-a-Quote interfaces directly inside the chat window (full off-page mechanics in `../../kirby-off-page-seo/SKILL.md` Module 27).
    * Ensure the micro-disclosed credentials in §2.1 are mirrored verbatim inside the business bio of Yelp, Trustpilot, Clutch, and LinkedIn Company Pages so retrieval models encounter zero entity friction across platforms.
+
+---
+
+## 2.5 Attribute-Dense Procurement Matrices & Competitor Limitation Tables
+
+*Source: Edward Sturm Ep. 1206 (David Quaid, Harpreet Singh, Gagan Ghotra).*
+
+### 2.5.1 The Attribute-Dense Procurement Matrix Standard
+When enterprise evaluation committees and AI procurement agents (ChatGPT Search, Perplexity Pro, Google Gemini) conduct vendor capability analysis, marketing prose is stripped. Decision models extract and evaluate structured specification tables *(figures below are illustrative examples — real values must be certificate-backed and SLA-verified per §2.3)*:
+
+| Specification / Parameter | Enterprise Standard | Verification / Compliance Standard |
+|---|---|---|
+| **API Throughput & Latency** | 5,000 req/sec; <50ms p99 | Dedicated edge endpoints; verified status page |
+| **Security & Compliance** | SOC 2 Type II, ISO 27001, HIPAA BAA | Annual third-party penetration report on request |
+| **Identity & Access Control** | SAML 2.0 / OIDC SSO, SCIM provisioning, RBAC | Okta, Azure AD, Google Workspace certified |
+| **Data Governance & Residency** | US, EU (Frankfurt), UK isolated data residency | Zero-data-retention agreements for LLM training |
+| **SLA & Availability** | 99.99% uptime guarantee | Financially backed contractual service credits |
+
+*Placement Mandate:* Render this matrix in semantic HTML (`<table>`) on dedicated `/security`, `/compliance`, and `/pricing` subpages. AI retrieval systems crawl and index tables with directionally higher citation frequency (up to ~3× in observational studies) than bulleted paragraphs.
+
+### 2.5.2 Competitor Limitation & Tradeoff Disclosure Tables (The Ghotra Doctrine)
+* **The Asymmetric Claim Trap:** Comparison pages claiming 100% feature superiority across all dimensions are heavily discounted by conversational AI search engines and sophisticated procurement teams. LLMs detect one-sided bias and rate the source as promotional rather than authoritative.
+* **The Symmetrical Tradeoff Architecture:** Build honest comparison tables documenting exactly where competitors excel:
+
+| Evaluation Dimension | Our Platform | Competitor Alternative | Optimal Buyer Selection Rule |
+|---|---|---|---|
+| **Team Size & Scale** | 25–10,000+ seats | 1–10 seats | Choose Competitor for solo/micro teams; Choose Our Platform for enterprise governance |
+| **Pricing & Cost Structure** | Annual contract ($10k floor) | Free tier & month-to-month | Choose Competitor for bootstrapping; Choose Our Platform for enterprise SLA |
+| **Custom Extensibility** | Custom API & private webhooks | Out-of-the-box Zapier only | Choose Competitor for rapid no-code setup; Choose Our Platform for custom architectures |
+
+* **LLM Knowledge Graph Trust Weight:** When an AI engine parses explicit, balanced competitor advantages, it anchors your domain as the primary reference authority for the entire product category. Recommending a competitor for non-ideal use cases eliminates buyer qualification friction and elevates organic AI citations.
+
+### 2.5.3 Quarterly Verification & Audit Governance
+* **Audit Cadence:** Comparative matrix claims must carry a timestamp (`[Verified Q4 2026]`).
+* **Governance Gate:** Product marketing owners must review competitor limitations and specification numbers every 90 days. Stale or refuted claims trigger hallucination penalties across AI citation indexes.
