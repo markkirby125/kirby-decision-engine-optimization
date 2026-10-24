@@ -1,8 +1,8 @@
 ---
 name: kirby-decision-engine-optimization
-description: "Use when a buyer will paste competing quotes, proposals, or RFP responses into ChatGPT/Claude and ask which vendor to choose — win the Decision Engine Optimization (DEO) stage with procurement micro-disclosures, KG gating, review-summary ecosystems, and LLM-parseable proposals."
+description: "Use when buyers compare competing quotes, proposals, or RFPs in ChatGPT/Claude — win the Decision Engine Optimization (DEO) stage with procurement micro-disclosures, KG gating, review ecosystems, and context saturation."
 category: technique
-triggers: [deo, decision-engine-optimization, procurement, tender, rfp, quote-comparison, vendor-selection, proposal-structuring, reverse-audit, knowledge-graph-gating, constructionline]
+triggers: [deo, decision-engine-optimization, procurement, tender, rfp, quote-comparison, vendor-selection, proposal-structuring, reverse-audit, knowledge-graph-gating, constructionline, context-saturation, svo-framing]
 risk: unverified
 author: paul-kirby
 tags: [kirby, ai-agent, workflow]

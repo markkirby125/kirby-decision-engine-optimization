@@ -14,6 +14,7 @@ When executing tasks under this skill, **do not guess**. Read the specific modul
 - **Module 4: Standalone Brand Review Summary Ecosystems** — `[Brand]Reviews.com` architectures that correct LLM review miscounts by buyer persona. -> Read `./module_4_brand_review_summary_ecosystems.md`
 - **Module 5: LLM-Optimized Proposal & RFP Structuring** — format quotes, proposals, and pricing sheets so LLM document parsers extract your superior value metrics. -> Read `./module_5_llm_optimized_proposals_rfp.md`
 - **Module 6: Third-Party Entity Ingestion** — seed GitHub/Reddit/industry-publication comparison matrices so LLMs retrieve them as consensus facts during buyer decision queries. -> Read `./module_6_third_party_entity_ingestion.md`
+- **Module 7: Customer Context Saturation & SVO Fact Framing** — eliminate silent LLM disqualification on edge-case constraints via support-ticket context harvesting and Subject-Verb-Object vector architecture. -> Read `./module_7_customer_context_saturation_and_svo_fact_framing.md`
 
 ## When to Use
 - A prospect's final decision step involves pasting competing quotes into an LLM ("we have 4 quotes — which should we choose?").
@@ -24,6 +25,7 @@ When executing tasks under this skill, **do not guess**. Read the specific modul
 - You are structuring attribute-dense procurement matrices, publishing honest competitor limitation/tradeoff tables (Ghotra Doctrine), or establishing quarterly specification verification gates for AI decision engines (Module 2 §2.5).
 - An enterprise tender or procurement process requires verified entity status (Module 3).
 - You are correcting LLM miscounts of the client's reviews across platforms, segmented by buyer persona (Module 4).
+- You are preventing silent LLM decision disqualifications by harvesting pre-sale customer support/objection context into on-page saturation tables, or formatting capabilities with direct Subject-Verb-Object (SVO) active assertions for deterministic vector embedding (Module 7).
 
 ## When NOT to Use
 - Top-of-funnel AI visibility, citations, rankings: [kirby-aiseo-skill](../../kirby-aiseo-skill/SKILL.md).
@@ -33,10 +35,11 @@ When executing tasks under this skill, **do not guess**. Read the specific modul
 ## How It Works
 1. Confirm the decision scenario (competing quotes / tender / RFP) and the buyer persona.
 2. Run Module 1's reverse-audit against the client and each competitor.
-3. Patch gaps in order: Module 3 (entity gating) → Module 2 (contractual proof) → Module 4 (review proof) → Module 5 (document formatting).
+3. Patch gaps in order: Module 3 (entity gating) → Module 2 (contractual proof) → Module 7 (context saturation) → Module 4 (review proof) → Module 5 (document formatting).
 4. Re-run the reverse-audit until the LLM argues *for* the client on every surfaced dimension.
 
 ## ✅ Pre-Deploy Checklist
 - Always explicitly mention which Module you are reading and applying.
 - Module 1 outputs are internal-only unless legal review clears externalization.
 - Never publish contractual figures that are not currently true and certificate-backed (Module 2 misrepresentation rule).
+- Verify all context saturation matrix specifications and policy links against ground-truth contracts before deployment (Module 7).

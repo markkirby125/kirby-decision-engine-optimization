@@ -12,8 +12,9 @@ That answer is decided by what the LLM can extract and verify: exact insurance f
 - **Module 2 — Procurement Micro-Disclosures:** "£3M Public Liability", "Constructionline Gold", "ISO 9001:2015" — exact, certificate-backed figures that LLMs can actually weigh.
 - **Module 3 — Knowledge Graph Gating:** enterprise AI procurement filters disqualify unverified entities; KG ID / Knowledge Panel doctrine (self-contained twin of `kirby-aiseo-skill` §2.42).
 - **Module 4 — Review Summary Ecosystems:** `[Brand]Reviews.com` architectures segmented by buyer persona (self-contained twin of `kirby-local-seo` §3.17).
-- **Module 6 — Third-Party Entity Ingestion (new):** seed GitHub/Reddit/industry-publication comparison matrices so LLMs retrieve them as consensus facts during buyer decision queries — 99%/1% doctrine, verifiable cells, freshness loop, LLM probe verification.
 - **Module 5 — LLM-Optimized Proposals & RFPs:** the extraction standard for quotes and tender responses that must survive both LLM parsing and human scrutiny.
+- **Module 6 — Third-Party Entity Ingestion:** seed GitHub/Reddit/industry-publication comparison matrices so LLMs retrieve them as consensus facts during buyer decision queries — 99%/1% doctrine, verifiable cells, freshness loop, LLM probe verification.
+- **Module 7 — Customer Context Saturation & SVO Fact Framing (new):** harvest pre-sale support tickets and objection logs to eliminate silent LLM disqualification during constraint queries; structure capabilities with Subject-Verb-Object (SVO) assertions for deterministic neural extraction (The SEO Meta Study / Ep. 1191/1207).
 
 ## 🪄 The Magic Prompt
 
