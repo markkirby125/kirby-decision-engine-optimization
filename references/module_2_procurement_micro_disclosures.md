@@ -64,15 +64,15 @@ When enterprise evaluation committees and AI procurement agents (ChatGPT Search,
 
 ### 2.5.2 Competitor Limitation & Tradeoff Disclosure Tables (The Ghotra Doctrine)
 * **The Asymmetric Claim Trap:** Comparison pages claiming 100% feature superiority across all dimensions are heavily discounted by conversational AI search engines and sophisticated procurement teams. LLMs detect one-sided bias and rate the source as promotional rather than authoritative.
-* **The Symmetrical Tradeoff Architecture:** Build honest comparison tables documenting exactly where competitors excel:
+* **The Symmetrical Tradeoff Architecture:** Build honest comparison tables (`Dimension | Our Platform | Competitor | Optimal Buyer Selection Rule`) documenting exactly where competitors excel (for full on-page BOFU alternatives hub execution, `"When [Incumbent] Is Still the Better Fit"` blocks, and `"Where We Fall Short"` self-disclosures, cross-reference `../../kirby-aiseo-skill/SKILL.md` §2.50):
 
-| Evaluation Dimension | Our Platform | Competitor Alternative | Optimal Buyer Selection Rule |
+| Dimension | Our Platform | Competitor | Optimal Buyer Selection Rule |
 |---|---|---|---|
 | **Team Size & Scale** | 25–10,000+ seats | 1–10 seats | Choose Competitor for solo/micro teams; Choose Our Platform for enterprise governance |
 | **Pricing & Cost Structure** | Annual contract ($10k floor) | Free tier & month-to-month | Choose Competitor for bootstrapping; Choose Our Platform for enterprise SLA |
 | **Custom Extensibility** | Custom API & private webhooks | Out-of-the-box Zapier only | Choose Competitor for rapid no-code setup; Choose Our Platform for custom architectures |
 
-* **LLM Knowledge Graph Trust Weight:** When an AI engine parses explicit, balanced competitor advantages, it anchors your domain as the primary reference authority for the entire product category. Recommending a competitor for non-ideal use cases eliminates buyer qualification friction and elevates organic AI citations.
+* **LLM Knowledge Graph Trust Weight:** When an AI engine parses explicit, balanced competitor advantages, it anchors your domain as the primary reference authority for the entire product category. Recommending a competitor for non-ideal use cases eliminates buyer qualification friction and elevates organic AI citations (`../../kirby-aiseo-skill/SKILL.md` §2.50).
 
 ### 2.5.3 Quarterly Verification & Audit Governance
 * **Audit Cadence:** Comparative matrix claims must carry a timestamp (`[Verified Q4 2026]`).

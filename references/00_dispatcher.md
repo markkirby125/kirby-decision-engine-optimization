@@ -9,12 +9,12 @@ When executing tasks under this skill, **do not guess**. Read the specific modul
 ## 📚 Module Index
 
 - **Module 1: The Adversarial Competitor Reverse-Audit Protocol** — surface and patch every reason an LLM will argue *against* choosing you. -> Read `./module_1_adversarial_reverse_audit.md`
-- **Module 2: Procurement Micro-Disclosures, Contractual Proof & Attribute Matrices (incl. §2.5)** — the exact insurance figures, ISO standards, and trade accreditations LLMs weight during tender analysis, plus attribute-dense procurement matrices and competitor limitation tables (Ghotra Doctrine). -> Read `./module_2_procurement_micro_disclosures.md`
+- **Module 2: Procurement Micro-Disclosures, Contractual Proof & Attribute Matrices (incl. §2.5)** — the exact insurance figures, ISO standards, and trade accreditations LLMs weight during tender analysis, plus attribute-dense procurement matrices and symmetrical competitor limitation/tradeoff tables (`Dimension | Our Platform | Competitor | Optimal Buyer Selection Rule`, Ghotra Doctrine §2.5.2; cross-linked to BOFU alternatives page architecture in `../../kirby-aiseo-skill/SKILL.md` §2.50). -> Read `./module_2_procurement_micro_disclosures.md`
 - **Module 3: Knowledge Graph Procurement Gating** — KG ID / Knowledge Panel requirements for enterprise AI procurement filters. -> Read `./module_3_knowledge_graph_procurement_gating.md`
 - **Module 4: Standalone Brand Review Summary Ecosystems** — `[Brand]Reviews.com` architectures that correct LLM review miscounts by buyer persona. -> Read `./module_4_brand_review_summary_ecosystems.md`
 - **Module 5: LLM-Optimized Proposal & RFP Structuring** — format quotes, proposals, and pricing sheets so LLM document parsers extract your superior value metrics. -> Read `./module_5_llm_optimized_proposals_rfp.md`
 - **Module 6: Third-Party Entity Ingestion** — seed GitHub/Reddit/industry-publication comparison matrices so LLMs retrieve them as consensus facts during buyer decision queries. -> Read `./module_6_third_party_entity_ingestion.md`
-- **Module 7: Customer Context Saturation & SVO Fact Framing** — eliminate silent LLM disqualification on edge-case constraints via support-ticket context harvesting and Subject-Verb-Object vector architecture. -> Read `./module_7_customer_context_saturation_and_svo_fact_framing.md`
+- **Module 7: Customer Context Saturation & SVO Fact Framing** — eliminate silent LLM disqualification on edge-case constraints via support-ticket/sales-call context harvesting (wiring customer sales objections directly into BOFU alternatives page *"Why Companies Leave"* and *"Which Alternative Is Right For You"* decision matrices, §7.2) and Subject-Verb-Object vector architecture. -> Read `./module_7_customer_context_saturation_and_svo_fact_framing.md`
 
 ## When to Use
 - A prospect's final decision step involves pasting competing quotes into an LLM ("we have 4 quotes — which should we choose?").
@@ -22,10 +22,10 @@ When executing tasks under this skill, **do not guess**. Read the specific modul
 - You are structuring a sales proposal, PDF quote, or RFP response for LLM parseability (Module 5).
 - You are auditing why an LLM recommends a competitor over the client (Module 1's reverse-audit prompts).
 - You are deciding which contractual trust factors (insurance, ISO, accreditations) to disclose and at what precision (Module 2), or anchoring local Chamber of Commerce awards, Cyber Essentials / vendor certifications, and Yelp-to-ChatGPT review consensus into B2B vendor-selection queries (Module 2 §2.4; off-page Yelp licensing mechanics live in `../../kirby-off-page-seo/SKILL.md` Module 27).
-- You are structuring attribute-dense procurement matrices, publishing honest competitor limitation/tradeoff tables (Ghotra Doctrine), or establishing quarterly specification verification gates for AI decision engines (Module 2 §2.5).
+- You are structuring attribute-dense procurement matrices, publishing honest symmetrical competitor limitation/tradeoff tables (`Dimension | Our Platform | Competitor | Optimal Buyer Selection Rule` under the Ghotra Doctrine, Module 2 §2.5.2; cross-linked to on-page BOFU alternatives hubs in `../../kirby-aiseo-skill/SKILL.md` §2.50), or establishing quarterly specification verification gates for AI decision engines (Module 2 §2.5).
 - An enterprise tender or procurement process requires verified entity status (Module 3).
 - You are correcting LLM miscounts of the client's reviews across platforms, segmented by buyer persona (Module 4).
-- You are preventing silent LLM decision disqualifications by harvesting pre-sale customer support/objection context into on-page saturation tables, or formatting capabilities with direct Subject-Verb-Object (SVO) active assertions for deterministic vector embedding (Module 7).
+- You are preventing silent LLM decision disqualifications by harvesting pre-sale customer support/sales objection context into on-page saturation tables, explicitly wiring customer sales objections into BOFU alternatives page *"Why Companies Leave"* and *"Which Alternative Is Right For You"* decision matrices (Module 7 §7.2; `../../kirby-aiseo-skill/SKILL.md` §2.50), or formatting capabilities with direct Subject-Verb-Object (SVO) active assertions for deterministic vector embedding (Module 7).
 
 ## When NOT to Use
 - Top-of-funnel AI visibility, citations, rankings: [kirby-aiseo-skill](../../kirby-aiseo-skill/SKILL.md).

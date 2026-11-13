@@ -51,6 +51,17 @@ Deploy an explicit HTML data table on core product, service, or location pages *
 | **Early Check-In / Late Check-Out** | Guaranteed 11:00 AM early arrival available upon booking. | Subject to €50 flat rate; complimentary for Diamond loyalty tier. | Automated Booking Engine API SLA (§3.1) |
 | **Cancellations & Refunds** | 100% full refund up to 24 hours prior to 3:00 PM check-in date. | Non-refundable promotional tiers excluded from cash refunds. | Guest Terms & Conditions §4.2 |
 
+#### **Wiring Sales Objections into BOFU Alternatives Decision Matrices (Rob Hoffman Blueprint)**
+
+Harvested sales call objections (Gong / Fathom / Chorus logs) and churn drivers must be wired directly into two high-conversion structural matrices on BOFU `[Competitor] Alternatives` pages (`../../kirby-aiseo-skill/SKILL.md` §2.50):
+
+1. **"Why Companies Leave [Competitor]" Pain-Point Matrix**:
+   * Map the top 3–4 recurring incumbent deal-breakers harvested from prospect discovery calls (e.g., *12-month mandatory annual lock-ins*, *non-refundable credit rollover traps*, *mandatory platform/software surcharges*, *account-manager layers blocking direct specialist access*, or *slow multi-timezone turnaround*) into concise 2–3 sentence diagnostic blocks.
+   * Ground every objection in verifiable contract mechanics (e.g., `$15,000/mo minimum × 12 months + $1,000/mo platform fee = $192,000 Year-1 floor`) rather than subjective criticism so LLMs extract the friction points as factual procurement constraints.
+2. **"Which [Competitor] Alternative Is Right For You?" Decision Matrix**:
+   * Convert prospect constraint and objection profiles into deterministic `If [Buyer Persona / Operational Constraint / Objection] → [Recommended Alternative]` routing rules (8–12 one-line mappings or a structured HTML decision matrix).
+   * Explicitly route enterprise edge cases where the incumbent genuinely excels back to the incumbent (per Module 2 §2.5.2 Ghotra Doctrine), while routing mid-market, flexible-contract, and specialized workflow personas to the best-fit alternative and its corresponding `1v1` versus comparison spoke.
+
 ---
 
 ### **7.3 Direct Active Assertions (Entity-Action-Constraint Formulation)**
