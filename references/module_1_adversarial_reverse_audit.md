@@ -35,5 +35,5 @@ Run these against the same LLMs your buyers use (ChatGPT, Claude, Gemini), with 
 ## 1.3 Guardrails
 
 * **Internal-use-only findings:** reverse-audit outputs are remediation intelligence. Publishing disparagement angles sourced from LLM audits (especially unverifiable or outdated claims about competitors) risks defamation exposure — external comparisons follow the comparison-page doctrine (`kirby-aiseo-skill` §2.40 caution: verifiable, current, attributed).
-* **Model variance:** run each prompt across at least two engines; single-engine findings may reflect one model's weighting, not the market's.
-* **Cadence:** re-audit quarterly and before every major tender — competitor disclosures change.
+* **Multi-Engine & `3–5×` Multi-Run + Multi-Turn Probing (Beating 1-vs-9 Non-Determinism):** Because a single prompt execution exhibits `1 vs 9` background fan-out non-determinism, run each elimination and tender-grill prompt **3–5 times** across fresh sessions with **multi-turn buyer follow-ups** across at least two target engines (**ChatGPT Search/Thinking, Google Gemini/AI Overviews, Perplexity, Claude**). Log and remediate only the recurring liability gaps and Track **Synthesis Recommendation Share** across runs (`../../kirby-aiseo-skill/SKILL.md` Module 2 §2.16.1B, §2.28B).
+* **Cadence & Engine Lag Windows:** Re-audit quarterly and before every major tender — competitor disclosures change. Calibrate post-patch re-audits to engine ingestion lag windows: **Google AI Overviews (`2–4 weeks`)** vs. **ChatGPT Search (`60–120 days`)**.

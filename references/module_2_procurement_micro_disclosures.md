@@ -21,7 +21,7 @@ Every contractual trust factor is disclosed at its **exact value with its certif
 ## 2.2 Placement
 
 * **Proposals/quotes (Module 5 documents):** a dedicated "Compliance & Coverage" block — tabular, labeled, parseable.
-* **Website:** About/Trust pages per the credibility-document doctrine (`kirby-aiseo-skill` §2.38).
+* **Website (`/trust` Self-Corroboration Hub & `/facts` SSOT Page):** Deploy an on-domain **`/trust` Self-Corroboration Hub** (`"Can you trust [Brand]?"` — Tier #1 branded AI trust surface) and a Single Source of Truth (**SSOT**) **`"My Business Facts"` page** (`/facts`, unblocked for `OAI-SearchBot` and `PerplexityBot`) per `../../kirby-aiseo-skill/SKILL.md` Module 2 §2.38 & §2.51. Include dated operational numbers, explicit vetting/QC steps, contractual guarantees with honest exclusions, skeptical procurement FAQs, and plain-text third-party review consensus with outbound links (**NO `AggregateRating` JSON-LD** per Module 4 §4.2 & `../../kirby-technical-aeo/SKILL.md` Phase 4).
 * **Review-summary domains (Module 4):** the accreditation row per persona page.
 
 ## 2.3 Guardrails
@@ -41,7 +41,7 @@ When LLMs (ChatGPT, Gemini, Perplexity) evaluate local B2B and commercial servic
    * **Markup Mandate**: Publish exact award titles, issuing bodies, and award years inside a structured HTML table on the `/about` and `/pricing` pages, paired with `award` and `memberOf` properties inside `LocalBusiness` JSON-LD schema.
 2. **Yelp & Secondary Review Corroboration for ChatGPT Procurement Queries**:
    * Because OpenAI licenses **Yelp** data directly to populate ChatGPT local business cards, decision-makers using ChatGPT to shortlist local contractors are served Yelp star ratings, review snippets, and Request-a-Quote interfaces directly inside the chat window (full off-page mechanics in `../../kirby-off-page-seo/SKILL.md` Module 27).
-   * Ensure the micro-disclosed credentials in §2.1 are mirrored verbatim inside the business bio of Yelp, Trustpilot, Clutch, and LinkedIn Company Pages so retrieval models encounter zero entity friction across platforms.
+   * **Vertical Directory `About` Hard-Numbers Rule (Kasra Dash V4 Tier #5):** Ensure the micro-disclosed credentials in §2.1 and your dated operational metrics (founding year, headcount/chartered engineers, completed projects, insurance ceilings, SLA windows) are mirrored verbatim inside the `About` / bio fields of vertical and regional directories (Yelp, Trustpilot, Clutch, Checkatrade, G2, Chamber directories, and LinkedIn Company Pages) so retrieval models encounter hard, checkable numbers rather than generic marketing prose across every fan-out surface.
 
 ---
 

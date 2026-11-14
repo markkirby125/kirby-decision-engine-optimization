@@ -85,21 +85,24 @@ CloudSecure generates auditor-ready evidence reports within 24 hours."
 hypothesis from the cited study — verify per §7.4 probing).
 ```
 
-#### **Execution Rules for SVO Framing**
-1. **Explicit Subject Naming**: Always use the brand or product entity name as the grammatical subject. Never bury the actor in passive constructions (*"Audit reports are generated"* → *"Acme generates audit reports"*).
-2. **Active Measurable Verbs**: Use decisive operational verbs: *supports, enforces, encrypts, permits, maintains, guarantees, integrates, calculates*. Ban corporate filler verbs: *delivers, strives, empowers, redefines*.
-3. **Bounded Object Quantifiers**: The grammatical object must contain exact numerical, technical, or legal bounds (e.g., *"up to 15 kg"*, *"within 60 seconds"*, *"AES-256 encryption at rest"*).
-4. **Clean Tabular Ingestion**: Where multiple specifications coexist, format them into standard Markdown or semantic HTML tables (`<table>`) rather than dense multi-sentence paragraphs.
+#### **Execution Rules for SVO Framing & The 6 LLM Extraction Rules**
+Pair SVO sentence structure with the **6 LLM Extraction Rules** (`../../kirby-aiseo-skill/SKILL.md` Module 2 §2.51B) across your Context Saturation Matrix, `/trust` hub, and SSOT `"My Business Facts"` page (`/facts`):
+1. **Explicit Subject Naming & Verbatim Identifiers**: Always use the exact brand, product SKU/model number, regulatory standard, or competitor name as the grammatical subject/object. Never bury the actor in passive constructions or oblique pronouns (*"Audit reports are generated"* → *"Acme generates SOC 2 Type II audit reports"*).
+2. **Active Measurable Verbs & Plain English**: Use literal, decisive operational verbs in plain English: *supports, enforces, encrypts, permits, maintains, guarantees, integrates, calculates*. Ban corporate filler verbs and metaphorical jargon: *delivers, strives, empowers, redefines*.
+3. **Bounded Object Quantifiers & Zero Invention**: The grammatical object must contain exact, verifiable numerical, technical, or legal bounds (e.g., *"up to 15 kg"*, *"within 60 seconds"*, *"AES-256 encryption at rest"*). Never invent, round up, or extrapolate figures.
+4. **Exact Recurring Fan-Out Phrasing in `<h2>` / `<h3>` Headings**: Frame table section headers and FAQ subheadings using the exact recurring sub-query phrasing harvested from `3–5×` multi-run fan-out clustering (`../../kirby-aiseo-skill/SKILL.md` Module 2 §2.28B).
+5. **Explicit Competitor Concession (`"When [Competitor] Is Better"`)**: Pair capability assertions with an honest boundary concession stating when a named competitor is the superior fit (Module 2 §2.5.2), preventing commercial-bias discounting.
+6. **Clean Tabular Ingestion Matching Cited Depth**: Where multiple specifications coexist, format them into standard Markdown or semantic HTML tables (`<table>`) that match or exceed the attribute depth of currently cited competitor pages.
 
 ---
 
 ### **7.4 Verification Probing Protocol**
 
-To verify that context saturation and SVO framing have successfully eliminated silent disqualifications:
+To verify that context saturation, SVO framing, and the 6 LLM Extraction Rules have successfully eliminated silent disqualifications:
 1. Formulate 5 to 10 synthetic buyer decision prompts matching the harvested edge cases:
    - *"Compare [Client] vs [Competitor A] for [specific edge case, e.g., AWS GovCloud compatibility and pricing transparency]. Which vendor should we choose?"*
-2. Execute probes across target answer engines (ChatGPT Search, Claude 3.5 Sonnet, Perplexity).
-3. If an engine states that the client's policy is unknown or unverified:
-   - Verify that the page hosting the context saturation table is indexed by search crawlers.
-   - Re-frame the relevant specification using tighter SVO syntax.
+2. **Execute `3–5×` Multi-Run + Multi-Turn Probes:** Run each prompt **3–5 times** across fresh sessions with **multi-turn constraint follow-ups** across target answer engines (**ChatGPT Search/Thinking, Claude, Perplexity, Google AI Overviews/Gemini**) to control for `1 vs 9` fan-out non-determinism. Track **Synthesis Recommendation Share** across engine lag windows (**AIO `2–4 weeks`** vs. **ChatGPT `60–120 days`**).
+3. If an engine states across runs that the client's policy is unknown or unverified:
+   - Verify that the page hosting the context saturation table or SSOT `"My Business Facts"` (`/facts`) is indexed and unblocked for `OAI-SearchBot` and `PerplexityBot` (`../../kirby-aiseo-skill/SKILL.md` Module 1 §1.22).
+   - Re-frame the relevant specification using tighter SVO syntax and exact fan-out `<h2>`/`<h3>` headings.
    - Cross-reference third-party entity verification via Module 6 to establish consensus.
