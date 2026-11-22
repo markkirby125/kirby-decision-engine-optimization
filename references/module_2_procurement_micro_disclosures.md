@@ -77,3 +77,8 @@ When enterprise evaluation committees and AI procurement agents (ChatGPT Search,
 ### 2.5.3 Quarterly Verification & Audit Governance
 * **Audit Cadence:** Comparative matrix claims must carry a timestamp (`[Verified Q4 2026]`).
 * **Governance Gate:** Product marketing owners must review competitor limitations and specification numbers every 90 days. Stale or refuted claims trigger hallucination penalties across AI citation indexes.
+
+### 2.5.4 Koray 3-Form Factual Triple & Procurement Attribute Framing (Video 11 `Af9rvlVPQCQ`; Videos 01 & 10 `qPQ9mnLeoJY`, `-KXTD5XEN34`)
+* **State each core procurement assertion in all three forms:** Pair tender specification sheets and comparisons with **Koray's 3-Form Factual Triple** (Video 11 `Af9rvlVPQCQ`: `[Entity] is [Predicate]` — `[Entity] means [Definition]` — `[Attribute] of [Entity]`; three forms of one fact, not three separate triples).
+* **Separate factual specs from UGC/reviews:** Keep factual specification tables and Module 7 §7.3 active SVO assertions strictly separated from opinionated UGC/review blocks (**Aggregated Language Modality Scoring**).
+* **Attach explicit Wanted/Unwanted boundary lists:** Pair procurement specs with explicit **Wanted vs. Unwanted Attribute Boundaries** (Videos 01 & 10 `qPQ9mnLeoJY`, `-KXTD5XEN34`; defined in [`kirby-source-context-topical-architect`](../../kirby-source-context-topical-architect/SKILL.md) Module 1).

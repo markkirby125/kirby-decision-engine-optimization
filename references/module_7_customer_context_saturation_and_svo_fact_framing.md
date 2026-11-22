@@ -94,6 +94,10 @@ Pair SVO sentence structure with the **6 LLM Extraction Rules** (`../../kirby-ai
 5. **Explicit Competitor Concession (`"When [Competitor] Is Better"`)**: Pair capability assertions with an honest boundary concession stating when a named competitor is the superior fit (Module 2 §2.5.2), preventing commercial-bias discounting.
 6. **Clean Tabular Ingestion Matching Cited Depth**: Where multiple specifications coexist, format them into standard Markdown or semantic HTML tables (`<table>`) that match or exceed the attribute depth of currently cited competitor pages.
 
+#### **7.3B Buyer-Segment Attribute Differentiation Matrix (Videos 01, 04 & 07 — `qPQ9mnLeoJY`, `eEQP8D3R7i4`, `I26NAT6T6Gs`)**
+*(Separate sub-protocol paired with §7.3; directional heuristic — verify via §7.4 probing.)*
+Never publish one-size-fits-all procurement claims. Structure explicit **Buyer-Segment Attribute Differentiation** matrices reusing the §7.2 four-column schema (`Operational Dimension / Buyer Segment | Policy / Specification | Exceptions / Constraints | Verification / Source of Truth`) comparing role-specific compliance, budget, and integration constraints (e.g., `Accountant` vs. `Landlord` vs. `Student` or `Mid-Market FinOps` vs. `Regulated Enterprise`) paired with explicit **Wanted vs. Unwanted Attribute Boundaries** (`../../kirby-source-context-topical-architect/SKILL.md` Module 1) so procurement AI is less likely to conflate consumer/SMB tiers with regulated enterprise contracts (directional; verify per §7.4).
+
 ---
 
 ### **7.4 Verification Probing Protocol**
